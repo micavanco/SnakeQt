@@ -37,3 +37,10 @@ QLabel#gameLabel
     font-size: 52px;
     font-family: "Century Gothic";
 }
+
+QLabel#warningLabel
+{
+    font-size: 24px;
+    font-family: "Century Gothic";
+    color: red;
+}
